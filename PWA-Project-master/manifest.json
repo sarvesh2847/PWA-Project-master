@@ -1,0 +1,16 @@
+{
+  "name": "Food App",
+  "short_name": "Food",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffe9d2",
+  "theme_color": "#ffe9d2",
+  "orientation": "portrait-primary",
+  "icons":[{
+
+    "src": "./Rocket.png",
+    "type": "image/png",
+    "sizes": "144x144"
+  }
+  ]
+}
